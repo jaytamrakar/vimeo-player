@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Vimeo player backend file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "express",
+    "backend",
+    "vimeo-player",
+    "vimeo"
+  ],
+  "author": "Jay Narayan Tamrakar",
+  "license": "ISC"
+}
